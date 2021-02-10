@@ -14,6 +14,6 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm which ca
 
 #Outcome
 
-It can be seen that as the training data size increases, SVM performs better than kNN and has more accuracy.
+It can be seen that as the training data size increases, SVM performs better has more accuracy.
 
 we get the highest accuracy score (97.95).
